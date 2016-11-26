@@ -1,4 +1,4 @@
-# JavaScriptScripts
+# JavaScript Shells
 JavaScript REPL(spidermonkey) used Shell Scripts
 
 # Usage
