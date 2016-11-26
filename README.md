@@ -1,7 +1,7 @@
 # JavaScriptScripts
 JavaScript REPL(spidermonkey) used Shell Scripts
 
-# Usege
+# Usage
 
 ## install spidermonkey
 
